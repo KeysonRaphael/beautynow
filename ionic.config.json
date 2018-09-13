@@ -1,0 +1,8 @@
+{
+  "name": "beautynow",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f6097db9"
+}
